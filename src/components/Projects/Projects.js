@@ -17,12 +17,12 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath=""
+              imgPath="https://1000logos.net/wp-content/uploads/2017/05/New-YouTube-logo.jpg"
               isBlog={false}
-              title=""
-              description=""
-              ghLink=""
-              demoLink=""
+              title="youtube clone"
+              description="just clone youtube with api"
+              ghLink="https://noorgx.github.io/Youtube/"
+              demoLink="https://noorgx.github.io/Youtube/"
             />
           </Col>
 
